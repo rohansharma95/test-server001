@@ -1,0 +1,144 @@
+.elementor-2350 .elementor-element.elementor-element-f84a0d2 {
+    --display: flex;
+    --min-height: 900px;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --align-items: flex-start;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.5;
+    --margin-block-start: 0px;
+    --margin-block-end: 0px;
+    --margin-inline-start: 0px;
+    --margin-inline-end: 0px;
+}
+
+.elementor-2350 .elementor-element.elementor-element-f84a0d2:not(.elementor-motion-effects-element-type-background),
+.elementor-2350 .elementor-element.elementor-element-f84a0d2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("../../2024/03/Admission-GPS-Web.jpg");
+}
+
+.elementor-2350 .elementor-element.elementor-element-f84a0d2::before,
+.elementor-2350 .elementor-element.elementor-element-f84a0d2>.elementor-background-video-container::before,
+.elementor-2350 .elementor-element.elementor-element-f84a0d2>.e-con-inner>.elementor-background-video-container::before,
+.elementor-2350 .elementor-element.elementor-element-f84a0d2>.elementor-background-slideshow::before,
+.elementor-2350 .elementor-element.elementor-element-f84a0d2>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-2350 .elementor-element.elementor-element-f84a0d2>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+}
+
+.elementor-2350 .elementor-element.elementor-element-f84a0d2,
+.elementor-2350 .elementor-element.elementor-element-f84a0d2::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-2350 .elementor-element.elementor-element-f84a0d2.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-2350 .elementor-element.elementor-element-5f8d15d {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-2350 .elementor-element.elementor-element-07182d4 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-2350 .elementor-element.elementor-element-07182d4:not(.elementor-motion-effects-element-type-background),
+.elementor-2350 .elementor-element.elementor-element-07182d4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-2350 .elementor-element.elementor-element-07182d4,
+.elementor-2350 .elementor-element.elementor-element-07182d4::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-2350 .elementor-element.elementor-element-07182d4.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-2350 .elementor-element.elementor-element-7f6e996 {
+    --spacer-size: 100px;
+}
+
+.elementor-2350 .elementor-element.elementor-element-a88e1bd {
+    text-align: center;
+}
+
+.elementor-2350 .elementor-element.elementor-element-a88e1bd .shelly-heading {
+    color: #293659;
+}
+
+.elementor-2350 .elementor-element.elementor-element-a88e1bd .shelly-heading span {
+    color: #FBB615;
+}
+
+.elementor-2350 .elementor-element.elementor-element-9ed994d>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 25px 25px 25px 25px;
+    background-color: #FFFFFF;
+}
+
+.elementor-2350 .elementor-element.elementor-element-9ed994d {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-2350 .elementor-element.elementor-element-9ed994d.elementor-element {
+    --align-self: center;
+}
+
+.elementor-2350 .elementor-element.elementor-element-6ca0c67 {
+    --spacer-size: 100px;
+}
+
+.elementor-2350 .elementor-element.elementor-element-a8d5846 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+}
+
+@media(max-width:767px) {
+    .elementor-2350 .elementor-element.elementor-element-f84a0d2 {
+        --width: 100vw;
+        --min-height: 1130px;
+    }
+    .elementor-2350 .elementor-element.elementor-element-f84a0d2.e-con {
+        --align-self: center;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-2350 .elementor-element.elementor-element-f84a0d2 {
+        --width: 100%;
+    }
+    .elementor-2350 .elementor-element.elementor-element-5f8d15d {
+        --width: 50%;
+    }
+    .elementor-2350 .elementor-element.elementor-element-07182d4 {
+        --width: 45.455%;
+    }
+}

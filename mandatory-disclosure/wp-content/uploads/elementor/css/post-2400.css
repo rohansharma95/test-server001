@@ -1,0 +1,25 @@
+.elementor-2400 .elementor-element.elementor-element-bb296ea {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.5;
+}
+
+.elementor-2400 .elementor-element.elementor-element-bb296ea:not(.elementor-motion-effects-element-type-background),
+.elementor-2400 .elementor-element.elementor-element-bb296ea>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-2400 .elementor-element.elementor-element-bb296ea::before,
+.elementor-2400 .elementor-element.elementor-element-bb296ea>.elementor-background-video-container::before,
+.elementor-2400 .elementor-element.elementor-element-bb296ea>.e-con-inner>.elementor-background-video-container::before,
+.elementor-2400 .elementor-element.elementor-element-bb296ea>.elementor-background-slideshow::before,
+.elementor-2400 .elementor-element.elementor-element-bb296ea>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-2400 .elementor-element.elementor-element-bb296ea>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+}
+
+.elementor-2400 .elementor-element.elementor-element-bb296ea,
+.elementor-2400 .elementor-element.elementor-element-bb296ea::before {
+    --border-transition: 0.3s;
+}
